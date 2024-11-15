@@ -9,9 +9,9 @@ This project focuses on classifying drug reviews into different categories such 
 - **Model Training**: Train and evaluate machine learning and deep learning models for classification.
 
 ## Installation
-To get started with the Drug Review Classification project, follow these steps:
+To get started with the Drug Review Classification project:
 
-1. Clone the repository:
+Clone the repository:
    ```bash
    git clone https://github.com/your-username/drug-review-classification.git
 
